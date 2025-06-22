@@ -28,7 +28,7 @@
 - 💬 Ask me about **Java, React, Node.js, Express, MongoDB, or Full Stack Projects**
 - 📸 I love **photography, video editing, and crafting**
 - 📫 How to reach me:  
-  -[gitHub}(https://github.com/anandkumar527)  
+  - [gitHub](https://github.com/anandkumar527)  
   - [LinkedIn](https://www.linkedin.com/in/anand-kumar-a00604268/) 
   - [Portfolio Website](https://anandkumar527.github.io/Portfolio/) 
   - Email: anandkumar.sik19@gmail.com 
