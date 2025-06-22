@@ -31,7 +31,7 @@
   - [gitHub](https://github.com/anandkumar527)  
   - [LinkedIn](https://www.linkedin.com/in/anand-kumar-a00604268/) 
   - [Portfolio Website](https://anandkumar527.github.io/Portfolio/) 
-  - Email: anandkumar.sik19@gmail.com 
+  - anandkumar.sik19@gmail.com 
 
 ---
 
