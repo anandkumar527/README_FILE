@@ -3,7 +3,6 @@
 - [🏠 Home](#-home)
 - [👨‍💻 About Me](#-about-me)
 - [🚀 Tech Stack](#-tech-stack)
-- [📂 Featured Projects](#-featured-projects)
 - [📊 GitHub Stats](#-github-stats)
 - [🧠 Currently Learning](#-currently-learning)
 - [🎨 Outside Tech](#-outside-tech)
